@@ -1,3 +1,4 @@
-.idea
-
-.venv
+# Ignore IDE-specific files
+.idea/
+# Ignore Python virtual environemtn
+.venv/
